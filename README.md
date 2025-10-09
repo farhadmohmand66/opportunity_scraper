@@ -26,6 +26,7 @@ opportunity_scraper/
 │   └── world_cities.json
 ├── main.py
 ├── requirements.txt
+├── translator.py
 └── README.md
 ```
 
@@ -132,32 +133,40 @@ python merge_all_json.py
 {
   "postNo": 1,
   "title": "string",
+  "title_bg": "string",
   "city": "string or null",
   "country": "string or null",
   "description": "string",
+  "description_bg": "string",
   "validUntil": "string (date or CURRENT)",
+  "originalDate": raw_date,
   "type": "string",
   "modeOfWork": "string",
   "categories": ["list of strings"],
   "applicationUrl": "string",
   "bannerImage": "string",
   "bulgariaEligible": true/false (optional, default false)
+  "source": source
 }
 ```
 
 ### Field Descriptions:
 - **postNo:** Sequential number of the opportunity
 - **title:** Opportunity title/name
+- **title_bg:** Opportunity title/name in Bulgarian language
 - **city:** Location city (extracted from text)
 - **country:** Location country (extracted from text)
 - **description:** Full opportunity description
+- **description_bg:** Full opportunity description bulgarian language
 - **validUntil:** Application deadline date
+- **originalDate"** raw_date,
 - **type:** Opportunity type (volunteering, event, scholarship, etc.)
 - **modeOfWork:** remote, on-site, or hybrid
 - **categories:** List of relevant categories
 - **applicationUrl:** URL to apply/learn more
 - **bannerImage:** URL to the banner Image
 - **bulgariaEligible:** Boolean indicating Bulgaria eligibility
+- **sourc:** the thd dns of the website
 
 ### 🎯 Opportunity Types
 - **volunteering:** Volunteer programs and opportunities
