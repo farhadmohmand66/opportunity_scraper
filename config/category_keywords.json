@@ -1,0 +1,62 @@
+{
+    "Education": [
+        "education", "learning", "school", "university", "study", "academia",  "student", "teacher", "curriculum"
+    ],
+    "Environment": [
+        "environment", "climate", "sustainability", "green", "eco-friendly", "renewable energy", "pollution", "conservation", "global warming"
+    ],
+    "Technology": [
+        "technology", "digital", "software", "programming", "artificial intelligence", "AI", "machine learning", "cybersecurity", "cloud computing", "IoT"
+    ],
+    "Culture": [
+        "culture", "arts", "heritage", "tradition", "history", "museum", "literature", "diversity", "civilization"
+    ],
+    "Health": [
+        "health", "medical", "healthcare", "medicine", "wellness", "fitness", "nutrition", "mental health", "therapy", "hospital"
+    ],
+    "Business": [
+        "business", "entrepreneurship", "startup", "commerce", "management", "market", "industry", "economy", "finance", "investment"
+    ],
+    "Programming": [
+        "programming", "coding", "developer", "algorithm", "software development", "Python", "Java", "JavaScript", "database", "API"
+    ],
+    "Marketing, Advertising, PR": [
+        "marketing", "advertising", "PR", "branding", "social media", "SEO", "content marketing", "digital marketing", "public relations"
+    ],
+    "Journalism": [
+        "journalism", "news", "reporting", "media", "article", "investigative", "interview", "ethics", "newsroom"
+    ],
+    "Trade and Sales": [
+        "trade", "sales", "retail", "e-commerce", "customer service", "supply chain", "logistics", "distribution"
+    ],
+    "Psychology": [
+        "psychology", "mental health", "behavior", "therapy", "cognitive", "social psychology", "personality", "mindfulness"
+    ],
+    "Cinema and Theater": [
+        "cinema", "theater", "film", "acting", "director", "screenplay", "documentary", "actor", "festival"
+    ],
+    "Finance and Banking": [
+        "finance", "banking", "investment", "economics", "stock market", "loan", "credit", "cryptocurrency", "tax"
+    ],
+    "Design": [
+        "design", "graphic design", "UI/UX", "fashion", "brand identity", "web design", "architecture", "creative"
+    ],
+    "Music and Arts": [
+        "music", "arts", "painting", "concert", "artist", "composer", "gallery", "exhibition"
+    ],
+    "Social Causes": [
+        "social causes", "activism", "human rights", "charity", "nonprofit", "equality", "justice", "community"
+    ],
+    "Ecology": [
+        "ecology", "ecosystem", "conservation", "biodiversity", "wildlife", "sustainability", "climate action"
+    ],
+    "Languages": [
+        "languages", "linguistics", "translation", "bilingual", "grammar", "language learning", "multilingual"
+    ],
+    "Career Guidance": [
+        "career", "job", "employment", "resume", "interview", "professional development", "workplace", "skills"
+    ],
+    "Science": [
+        "science", "research", "physics", "chemistry", "biology", "mathematics", "experiment", "discovery", "innovation"
+    ]
+}
